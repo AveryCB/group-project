@@ -12,14 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/ComicScenes/Video.unity
     guid: e476059b5b0f5f847838b0726e0915bc
   - enabled: 1
+    path: Assets/Scenes/GameScenes/Game.unity
+    guid: c289bdf8b136ab74fb3136f20d89291d
+  - enabled: 1
     path: Assets/Scenes/ComicScenes/1.unity
     guid: 2b1cd110857fa6943a436d2c2ad9695b
   - enabled: 1
     path: Assets/Scenes/ComicScenes/2.unity
     guid: d83b2c10710ce764ba8ef44b3d95cf2e
-  - enabled: 1
-    path: Assets/Scenes/GameScenes/Game1.unity
-    guid: 251be2c5776b3144199960ca23c7bcd3
   - enabled: 1
     path: Assets/Scenes/ComicScenes/3.unity
     guid: 70cd901d550398b48a0498a88886b877

@@ -12,18 +12,57 @@ EditorBuildSettings:
     path: Assets/Scenes/ComicScenes/Video.unity
     guid: e476059b5b0f5f847838b0726e0915bc
   - enabled: 1
-    path: Assets/Scenes/GameScenes/Game.unity
+    path: Assets/Scenes/GameScenes/Game - Panel 1.unity
     guid: c289bdf8b136ab74fb3136f20d89291d
   - enabled: 1
-    path: Assets/Scenes/ComicScenes/1.unity
+    path: Assets/Scenes/ComicScenes/Panel 2.unity
     guid: 2b1cd110857fa6943a436d2c2ad9695b
   - enabled: 1
-    path: Assets/Scenes/ComicScenes/2.unity
-    guid: d83b2c10710ce764ba8ef44b3d95cf2e
+    path: Assets/Scenes/ComicScenes/Panel 3.unity
+    guid: 928d31779df7f1046a859ab7027cc145
   - enabled: 1
-    path: Assets/Scenes/ComicScenes/3.unity
-    guid: 70cd901d550398b48a0498a88886b877
+    path: Assets/Scenes/ComicScenes/Panel 4.unity
+    guid: 5942c025f3ed7af4e88610b4a930de3a
   - enabled: 1
-    path: Assets/Scenes/ComicScenes/4.unity
-    guid: 0aa646471a9815e4f952d832da42e4f2
+    path: Assets/Scenes/ComicScenes/Panel 5.unity
+    guid: 1e823605c2049414c8465849439068b9
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 6.unity
+    guid: d096e06bb49a7484b9e17ff62b43826f
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 7.unity
+    guid: d2c65096263d84e49a1bb53580e48093
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 8.unity
+    guid: f1aa60004ddc1d442b124379049611b4
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 9.unity
+    guid: 7cced546aee63ac4e8e80e5bf9c22a17
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 10.unity
+    guid: ede75c3b96e50b74d8f8d12b312d0188
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 11.unity
+    guid: 54b0ba4999afba142b10e858f6760894
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 12.unity
+    guid: 043d2462a78c55147968e66bf38143b7
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 13.unity
+    guid: dc03f884a3846884293cdf1a500ddbca
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 14.unity
+    guid: 9556a0b73ae784e4da18fae57030f960
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 15.unity
+    guid: 5cc551f60466eae438e6b27edf89c8bf
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 16.unity
+    guid: 6f6e2b04b1fa7224aae9ec9b460089fc
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 17.unity
+    guid: d4b2a59a1406f9640935a974dfd9f380
+  - enabled: 1
+    path: Assets/Scenes/ComicScenes/Panel 18.unity
+    guid: 7f4d739aa9d36b24b929490c3492b77d
   m_configObjects: {}

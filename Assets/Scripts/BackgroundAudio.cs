@@ -38,6 +38,11 @@ public class BackgroundAudio : MonoBehaviour
         {
             audioSource.enabled = true;
         }
+        // If the "Panel 2" scene is loaded, enable the audio source
+        else if (scene.name == "Panel 6")
+        {
+            audioSource.enabled = true;
+        }
         // If the "Panel 7" scene is loaded, disable the audio source
         else if (scene.name == "Panel 7")
         {

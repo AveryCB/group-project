@@ -480,7 +480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe76b33792779924ab5664e13f6e68d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicClip: {fileID: 8300000, guid: d7c8978a1243a04478db5d06c5d99f80, type: 3}
+  musicClip: {fileID: 8300000, guid: 7b8dd696a7f7d1b4a82f58158752ab02, type: 3}
 --- !u!4 &1946861499
 Transform:
   m_ObjectHideFlags: 0

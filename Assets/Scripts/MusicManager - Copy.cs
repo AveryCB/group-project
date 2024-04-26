@@ -20,6 +20,8 @@ public class MusicManager : MonoBehaviour
         // Set the audio clip
         audioSource.clip = musicClip;
 
+        audioSource.volume = 0.5f;
+
         // Don't destroy this game object when a new scene is loaded
         DontDestroyOnLoad(gameObject);
 
@@ -35,6 +37,10 @@ public class MusicManager : MonoBehaviour
         }
         // If the "Panel 2" scene is loaded, disable the audio source
         else if (scene.name == "Panel 2")
+        {
+            audioSource.enabled = false;
+        }
+        else if (scene.name == "Panel 6")
         {
             audioSource.enabled = false;
         }

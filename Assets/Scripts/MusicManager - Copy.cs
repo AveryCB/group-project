@@ -29,8 +29,12 @@ public class MusicManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if (scene.name == "Game - Panel 1")
+        {
+            audioSource.enabled = false;
+        }
         // If the "Panel 2" scene is loaded, disable the audio source
-        if (scene.name == "Panel 2")
+        else if (scene.name == "Panel 2")
         {
             audioSource.enabled = false;
         }

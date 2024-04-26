@@ -33,8 +33,12 @@ public class BackgroundAudio : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if (scene.name == "Game - Panel 1")
+        {
+            audioSource.enabled = false;
+        }
         // If the "Panel 2" scene is loaded, enable the audio source
-        if (scene.name == "Panel 2")
+        else if (scene.name == "Panel 2")
         {
             audioSource.enabled = true;
         }
